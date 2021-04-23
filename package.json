@@ -1,10 +1,11 @@
 {
   "name": "note-taker",
   "version": "1.0.0",
-  "description": "",
+  "description": "[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)     ## Description  Using starter code we need to modify it to create an application called Note Taker that can be used to write and save notes, using an Express.js back end that will save and retrieve data from a json file.     ## Table of Contents",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "author": "",
   "license": "ISC",
@@ -12,5 +13,14 @@
     "express": "^4.16.4",
     "inquirer": "^8.0.0",
     "uuid": "^8.3.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinrhidalgo/9-NoteTaker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kevinrhidalgo/9-NoteTaker/issues"
+  },
+  "homepage": "https://github.com/kevinrhidalgo/9-NoteTaker#readme"
 }
