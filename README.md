@@ -3,6 +3,7 @@
   ## Description 
 With given started code we need to modify it to create an application called Note Taker that is used to write & save notes. We will use Express.js in the back end to save & retrieve data from a JSON FILE.
 ## Note Taker Mock-Up
+<img width="1244" alt="Screen Shot 2021-04-23 at 8 52 11 PM" src="https://user-images.githubusercontent.com/78196245/115942053-3491d200-a476-11eb-9b01-40488161adea.png">
 
 
   ## Table of Contents 
