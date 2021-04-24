@@ -2,6 +2,9 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   ## Description 
 With given started code we need to modify it to create an application called Note Taker that is used to write & save notes. We will use Express.js in the back end to save & retrieve data from a JSON FILE.
+## Note Taker Mock-Up
+
+
   ## Table of Contents 
 
   * [Installation](#installation)
