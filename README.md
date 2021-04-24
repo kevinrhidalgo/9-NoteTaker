@@ -5,6 +5,8 @@ With given started code we need to modify it to create an application called Not
 ## Note Taker Mock-Up
 <img width="1244" alt="Screen Shot 2021-04-23 at 8 52 11 PM" src="https://user-images.githubusercontent.com/78196245/115942053-3491d200-a476-11eb-9b01-40488161adea.png">
 
+<img width="1275" alt="Screen Shot 2021-04-23 at 8 53 05 PM" src="https://user-images.githubusercontent.com/78196245/115942058-44111b00-a476-11eb-9424-b9689613ebd7.png">
+
 
   ## Table of Contents 
 
